@@ -34,8 +34,9 @@ The generated QR code can be printed and attached to an animal tag.
 ## 📦 Installation
 
 1. Clone the repository:
-
-git clone https://github.com/CodeWithShrey-collab/qr-animal-generator.git
+``` bash
+git clone https://github.com/CodeWithShrey-collab/Animal-QR-Generator.git
+```
 
 2. Navigate into the folder:
 
