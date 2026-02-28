@@ -68,4 +68,4 @@ The QR code contains organization details and Google Maps location for easy trac
 
 ## 👥 Collaboration
 
-Built as a collaborative Python mini-project.
+Built as a collaborative Python mini-project with @NodeNexus.
